@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Chocolate Box",
+      "price": "29.99",
+      "description": "This box is full of delicious chocolate."
+    },
+    {
+      "id": "39ac2118-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Chocolate Bar",
+      "price": "11.80",
+      "description": "Classic white chocolate."
+    },
+    {
+      "id": "4262b2c2-7531-11e8-86e5-f0d5bf731f68",
+      "item": "A ship full of chocolate",
+      "price": "11.80",
+      "description": "It might be more chocolate than you will ever need, but hey, no one's judging."
+    },
+    {
+      "id": "4c1aa7d4-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Hot Chocolate",
+      "price": "12.99",
+      "description": "Amazing for winter, but also for summer. It's chocolate, it's always amazing."
+    },
+    {
+      "id": "55bb6ef4-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Heart Shaped Chocolate 90% cocoa",
+      "price": "18.55",
+      "description": "It feels your heart with cocoa, because love is a bit bitter."
+    },
+    {
+      "id": "5d3b9e7e-7531-11e8-86e5-f0d5bf731f68",
+      "item": "A small box containing two very fancy chocolats",
+      "price": "21.65",
+      "description": "It is expensive and we say we made it with the very best ingredients. You will look very rich when you eat it in front of everybody at work."
+    }
+  ],
+  "carts": [
+    {
+      "id": "a004d8d3-fb6f-46a0-81e9-1cabefe86001",
+      "products": []
+    },
+    {
+      "id": "3783ff64-2df7-44a2-b3e1-ea06c7203c13",
+      "products": []
+    },
+    {
+      "id": "e322ebb6-bfd4-4e0a-a626-c8220db80fe9",
+      "products": [
+        "4262b2c2-7531-11e8-86e5-f0d5bf731f68"
+      ]
+    },
+    {
+      "id": "48175c2f-ec19-44b4-8dc6-6aa27a00f650",
+      "products": [
+        {
+          "id": "39ac2118-7531-11e8-86e5-f0d5bf731f68"
+        }
+      ]
+    },
+    {
+      "id": "54694a88-3409-4ac9-87a8-aec75db3be94",
+      "products": []
+    },
+    {
+      "id": "108d998d-6c75-40c8-afcf-1304d16eec27",
+      "products": [
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "2f81a686-7531-11e8-86e5-f0d5bf731f68"
+      ]
+    },
+    {
+      "id": "820d41cd-a0a3-494a-8a82-450d8c1ecc12",
+      "products": [
+        {
+          "id": "4c1aa7d4-7531-11e8-86e5-f0d5bf731f68",
+          "item": "Hot Chocolate",
+          "price": "12.99",
+          "description": "Amazing for winter, but also for summer. It's chocolate, it's always amazing."
+        },
+        {
+          "id": "39ac2118-7531-11e8-86e5-f0d5bf731f68",
+          "item": "Chocolate Bar",
+          "price": "11.80",
+          "description": "Classic white chocolate."
+        }
+      ]
+    }
+  ]
+}

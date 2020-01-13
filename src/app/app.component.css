@@ -9,3 +9,29 @@
   --heading-font: "Times New Roman", Times, serif;
   --text-font: "Courier New", Courier, monospace;
 }
+
+.page-header {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: var(--color-purple);
+  height: 100px;
+  font-family: var(--heading-font);
+  color: var(--color-yellow);
+  font-size: 3rem;
+  padding: 10px;
+}
+
+.routes-container {
+  position: absolute;
+  background-color: var(--color-yellow);
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 700px) {
+  .page-header {
+    font-size: 2rem;
+  }
+}

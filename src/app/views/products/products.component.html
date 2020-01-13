@@ -1,1 +1,11 @@
-<p>products works!</p>
+<div class="product-list">
+  <div
+    class="product-box"
+    *ngFor="let product of products"
+    routerLinkActive="active"
+    [routerLink]="['/product-details/', product.id]"
+  >
+    <p class="product-name">{{ product.item }}</p>
+    <p class="product-price">{{ product.price }}</p>
+  </div>
+</div>

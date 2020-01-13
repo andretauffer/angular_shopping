@@ -1,0 +1,11 @@
+<div class="details-container">
+  <p class="details-title">{{ product.item }}</p>
+  <p class="details-price">{{ product.price }}</p>
+  <p class="details-description">{{ product.description }}</p>
+  <div class="details-add-to-cart" (click)="addToCart(product)">
+    <p>Add to cart</p>
+  </div>
+</div>
+<div class="details-return" routerLinkActive="active" routerLink="/products/">
+  Go back to products
+</div>

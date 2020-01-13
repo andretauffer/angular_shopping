@@ -1,0 +1,57 @@
+.details-container {
+  position: relative;
+  height: 300px;
+  min-width: 300px;
+  max-width: 95vw;
+  background-color: var(--color-purple);
+  color: white;
+  font-family: var(--text-font);
+  font-size: 1rem;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 5px;
+  box-shadow: 4px 7px 31px -19px rgba(0, 0, 0, 0.75);
+}
+
+.details-title {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-family: var(--heading-font);
+  font-size: 1.5rem;
+}
+.details-price {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 3rem;
+}
+.details-price:before {
+  content: "$";
+}
+
+.details-description {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  right: 10px;
+}
+
+.details-add-to-cart {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: var(--color-wine);
+}
+
+.details-return {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: var(--color-wine);
+  color: white;
+}

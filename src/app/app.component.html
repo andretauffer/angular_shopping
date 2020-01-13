@@ -1,5 +1,7 @@
-<span>Welcome to the {{ title }}</span>
-
+<div class="page-header">Welcome to the {{ title }}</div>
+<button (click)="localFun()">BUTTON HERE</button>
 <app-navbar></app-navbar>
 
-<router-outlet></router-outlet>
+<div class="routes-container">
+  <router-outlet></router-outlet>
+</div>
