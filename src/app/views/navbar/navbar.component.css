@@ -1,0 +1,44 @@
+.nav-container {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  height: 50px;
+  background: var(--color-yellow);
+}
+
+.nav-item {
+  min-width: 200px;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: var(--text-font);
+  background-color: var(--color-transparent-salmon);
+}
+
+.nav-item :hover {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-transparent-yellow);
+  cursor: pointer;
+}
+
+@media only screen (max-width: 700px) {
+  .nav-item {
+    min-width: 50px;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: var(--text-font);
+    background-color: var(--color-transparent-salmon);
+  }
+}

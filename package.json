@@ -2,7 +2,7 @@
   "name": "angular-shopping",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
+    "ng": "npx @angular/cli",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",

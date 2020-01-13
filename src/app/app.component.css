@@ -1,0 +1,11 @@
+:host {
+  --color-yellow: #ffaf87;
+  --color-transparent-yellow: rgba(255, 175, 135, 0.5);
+  --color-salmon: #ff687e;
+  --color-transparent-salmon: rgba(255, 104, 126, 0.5);
+  --color-wine: #cc6686;
+  --color-purple: #735983;
+  --color-deep-blue: #255d83;
+  --heading-font: "Times New Roman", Times, serif;
+  --text-font: "Courier New", Courier, monospace;
+}
